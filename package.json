@@ -1,0 +1,18 @@
+{
+  "name": "@digitalbranch/http-server",
+  "version": "1.0.0",
+  "description": "Http Server for Node.js",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentcorbee/WebsocketJs.git"
+  },
+  "keywords": [
+    "Http Server", "Node.js"
+  ],
+  "author": "V.J.M. Corbee",
+  "license": "MIT"
+}
